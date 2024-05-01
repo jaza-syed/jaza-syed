@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm a Software Engineer and ML researcher interested in applications for creative industries, especially audio.
+
 I'm also an occasional musician and live-coder, especially using TidalCycle.
+
 Some audio signal processing code I worked on at a previous role has been open-sourced here: https://github.com/emotechlab/emo-audio
 
 <!--
