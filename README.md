@@ -4,8 +4,8 @@ I'm a Software Engineer and ML researcher interested in applications for creativ
 
 I'm also an occasional musician and live-coder, especially using TidalCycle.
 
-Some audio signal processing code I worked on at a previous role has been open-sourced here: https://github.com/emotechlab/emo-audio
-
+Some audio signal processing code I worked on at a previous role has been open-sourced here: [https://github.com/emotechlab/emo-audio
+](https://github.com/emotechlab/griffin-lim]
 <!--
 **jaza-syed/jaza-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
