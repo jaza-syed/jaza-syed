@@ -2,6 +2,8 @@
 
 I'm a Software Engineer and ML researcher interested in applications for creative industries, especially audio.
 
+My personal website is https://jaza.xyz
+
 I'm also an occasional musician and live-coder, especially using [TidalCycles](https://tidalcycles.org/).
 
 Some audio signal processing code I worked on at a previous role has been open-sourced here: https://github.com/emotechlab/griffin-lim
