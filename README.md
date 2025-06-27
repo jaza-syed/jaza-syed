@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- I'm a Software Engineer and ML researcher interested in applications for creative industries, especially audio.
+- I'm a Software Engineer and ML researcher interested in applications for creative industries, especially audio
+
+- I'm currently working as a Research Assistant at the Centre for Digital Music at Queen Mary University of London
 
 - My personal website is https://jaza.xyz
 
